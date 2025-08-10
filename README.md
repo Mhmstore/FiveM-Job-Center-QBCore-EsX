@@ -1,5 +1,7 @@
 # Purple Job Center - سكربت مركز الوظائف FiveM
 **سكربت فايف إم مركز الوظائف باللون البنفسجي الفاتح، مستوحى من سيرفرات فايف إم الشهيرة ويقدم لك واجهة أنيقة وحصرية مع تجربة مستخدم سلسة ومتطورة.**
+<img width="1553" height="867" alt="image" src="https://github.com/user-attachments/assets/833366b8-53d0-4bc5-adbb-c149db37af8b" />
+
 
 *المتطلبات |*
 - **qb-core**
