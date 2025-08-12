@@ -8,7 +8,8 @@
 - **oxmysql**
 - **qb-target أو ox_target**
 
-<img width="1324" height="895" alt="image" src="https://github.com/user-attachments/assets/20f48575-743e-4afb-b1c4-27b174ffd1df" />
+<img width="1408" height="916" alt="image" src="https://github.com/user-attachments/assets/b27ba837-b34a-4971-93da-3c64424682b0" />
+
 
 # مميزات السكربت
 
@@ -19,9 +20,6 @@
 - مجاني ومطلوب بشدة داخل مجتمع FiveM
 
 **قابلية تعديل كاملة للكونفيق لتناسب سيرفرك واحتياجاتك**
-
-<img width="1267" height="878" alt="image" src="https://github.com/user-attachments/assets/a69b4a05-1177-4ea3-b76c-f3e8d7b93f1e" />
-
 
 # نظام الحديث للمستويات (Level System)
 *يمكنك تفعيل أو تعطيل نظام المستويات بسهولة، مع تحديد:*
